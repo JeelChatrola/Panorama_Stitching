@@ -1,5 +1,7 @@
 # Panorama Stitching
 
+In this project implements Panorama Stitching similar to pano mode on our phones. Leveraging advanced techniques such as SIFT for feature extraction, brute force matching for feature alignment, and homography for image warping and blending, results in a captivating panorama image.
+
 ### Requirements
 
 1. NumPy
@@ -22,13 +24,6 @@ Stitches a given set of images with a procedural flow of:
 4. Image Warping and Blending
 
 Saves the output of every procedure in the corresponding folders.
-
-### Results
-
-
-<!-- |1 | 2| 3|4 |5 |
-|:-------:|:-------:|:-------:|
-|![Images](/Phase1/Data/Set5/1.jpg)|![Images](/Phase1/Data/Set5/2.jpg) |![Images](/Phase1/Data/Set5/3.jpg) | ![Images](/Phase1/Data/Set5/4.jpg) | ![Images](/Phase1/Data/Set5/5.jpg) | -->
 
 ### Results
 

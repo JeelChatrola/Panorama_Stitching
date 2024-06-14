@@ -32,6 +32,9 @@ Saves the output of every procedure in the corresponding folders.
 
 ### Results
 
-|1 | 2| 3|4 |5 |
+| Image 1 | Image 2 | Image 3 | Image 4 | Image 5 |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
 |<img src="/Phase1/Data/Set5/1.jpg" width="200">|<img src="/Phase1/Data/Set5/2.jpg" width="200">|<img src="/Phase1/Data/Set5/3.jpg" width="200">|<img src="/Phase1/Data/Set5/4.jpg" width="200">|<img src="/Phase1/Data/Set5/5.jpg" width="200">|
+|  |  |<img src="/Phase1/Data/Set5/Pano/Final_Panorama.jpg">  |  |  |
+
+

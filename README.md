@@ -33,16 +33,20 @@ Saves the output of every procedure in the corresponding folders.
 ### Results
 
 1. Input Images
+
 | Image 1 | Image 2 | Image 3 | Image 4 | Image 5 |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
 |<img src="/Phase1/Data/Set5/1.jpg" width="200">|<img src="/Phase1/Data/Set5/2.jpg" width="200">|<img src="/Phase1/Data/Set5/3.jpg" width="200">|<img src="/Phase1/Data/Set5/4.jpg" width="200">|<img src="/Phase1/Data/Set5/5.jpg" width="200">|
 
+
 2. Feature Extraction and Matching
+
 | Match 1 | Match 2 | Match 3 | 
 |:-------:|:-------:|:-------:|
 |<img src="/Phase1/Data/Set5/Matches/match_0.jpg" width="200">|<img src="/Phase1/Data/Set5/Matches/match_1.jpg" width="200">|<img src="/Phase1/Data/Set5/Matches/match_2.jpg" width="200"> |
 
 3. Resulting Panorama Image
+
 <img src="/Phase1/Data/Set5/Pano/Final_Panorama.jpg"> 
 
 

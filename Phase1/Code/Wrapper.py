@@ -5,8 +5,6 @@ import numpy as np
 import cv2
 import argparse
 import os
-import shutil
-from scipy.ndimage import maximum_filter, minimum_filter
 
 class PanoramaStitching:
 	def __init__(self):

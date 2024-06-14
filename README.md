@@ -1,6 +1,6 @@
 # Panorama Stitching
 
-In this project implements Panorama Stitching similar to pano mode on our phones. Leveraging advanced techniques such as SIFT for feature extraction, brute force matching for feature alignment, and homography for image warping and blending, results in a captivating panorama image.
+In this project, we implement Panorama Stitching. Leveraging advanced techniques such as SIFT for feature extraction, brute force matching for feature alignment, and homography for image warping and blending results in a captivating panorama image.
 
 ### Requirements
 

@@ -43,7 +43,7 @@ Saves the output of every procedure in the corresponding folders.
 
 | Match 1 | Match 2 | Match 3 | 
 |:-------:|:-------:|:-------:|
-|<img src="/Phase1/Data/Set5/Matches/match_0.jpg" width="200">|<img src="/Phase1/Data/Set5/Matches/match_1.jpg" width="200">|<img src="/Phase1/Data/Set5/Matches/match_2.jpg" width="200"> |
+|<img src="/Phase1/Data/Set5/Matches/match_0.jpg" width="300">|<img src="/Phase1/Data/Set5/Matches/match_5.jpg" width="300">|<img src="/Phase1/Data/Set5/Matches/match_7.jpg" width="300"> |
 
 3. Resulting Panorama Image
 
